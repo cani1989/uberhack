@@ -20,3 +20,5 @@ angular
 fourseven:scss
 stevezhu:lodash
 meteortypescript:compiler
+mquandalle:jade
+meteortypescript:typescript-libs
